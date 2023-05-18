@@ -1,11 +1,23 @@
 Wassup world!
+# to create a local git repo in the current working directory
+git innit
 
-
-#to monitor the files
+# to monitor the files in the directory
 git status
 
-#to stage a file
+# to stage a file
 git add <filename>
 
 # to commit a file
 git commit -m "message"
+
+# create a repo in github
+
+# copy git repo url
+https://github.com/PSR-04/testgit.git
+
+# command for adding in github
+git remote add origin https://github.com/PSR-04/testgit.git
+
+# to push repo in github
+git push -u origin master
