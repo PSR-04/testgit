@@ -1,0 +1,8 @@
+Wassup world!
+
+
+#to monitor the files
+git status
+
+#to stage a file
+git add <filename>
